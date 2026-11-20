@@ -2,6 +2,7 @@
   "name": "dsh-ui-state",
   "version": "1.0.0",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Report the Web UI focus and sidebar layout to the agent as a read-only ui_state tool.",
   "exports": {
