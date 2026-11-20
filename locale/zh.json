@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "UI 状态",
+    "description": "把浏览器里当前的键盘焦点、右栏打开的标签页和活动标签页以只读工具 ui_state 报告给 Agent。"
+  }
+}

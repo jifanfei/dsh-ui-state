@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "UI state",
+    "description": "Report the browser's keyboard focus, open right-sidebar tabs and the active tab to the agent through the read-only ui_state tool."
+  }
+}
